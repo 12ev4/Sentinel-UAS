@@ -48,9 +48,9 @@ if ($result->num_rows > 0) {
     <meta name="description" content="Material Style Theme">
     <link rel="shortcut icon" href="assets/img/favicon.png?v=3">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <link rel="stylesheet" href="assets/css/preload.min.css">
-    <link rel="stylesheet" href="assets/css/plugins.min.css">
-    <link rel="stylesheet" href="assets/css/style.light-blue-500.min.css">
+    <link rel="stylesheet" href="css/preload.min.css">
+    <link rel="stylesheet" href="css/plugins.min.css">
+    <link rel="stylesheet" href="css/style.light-blue-500.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
     <link rel="stylesheet" href="css/style.css">
     
